@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+body{ font-family: "Quicksand", sans-serif;}
+.form-control{height:38px;border:1px solid #ccc;}
+.form-control:focus{box-shadow: none;border-color:#0d6efd;border-radius:7px 0 0 7px;}
+.app-holder{border:1px solid #ccc;border-radius:10px;overflow:hidden;box-shadow: 0 0 7px rgba(0,0,0,.3);}
+.search-form .btn-primary{position: absolute;top:0;right:0;border-radius:0 7px 7px 0;}
+.search-form .form-control{padding:8px 85px 8px 12px;}
+.app-holder .weather-image-holder{height:250px;border-radius:10px;box-shadow: 0 0 7px rgba(0,0,0,.3);overflow: hidden;}
+.app-holder .weather-image-holder img{object-fit: cover;}
