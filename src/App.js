@@ -134,7 +134,7 @@ function App() {
 				</Row>
 				<Row>
 					<Col>
-					    <p><a href="" target="_blank">Click Here</a> for GitHub Repository</p>
+					    <p><a href="https://github.com/mzeeshanh/weather-app" target="_blank">Click Here</a> for GitHub Repository</p>
 					</Col>
 				</Row>
 			</Container>
